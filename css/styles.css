@@ -401,7 +401,6 @@ body {
     background: #2e2f42;
     padding-top: 100px;
     padding-bottom: 100px;
-    
 }
 
 .footer-content {
@@ -410,7 +409,7 @@ body {
 }
 
 .footer-content-info {
-    margin-right: 120px
+    margin-right: 120px;
 }
 
 .footer-logo {
